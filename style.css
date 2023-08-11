@@ -1,4 +1,15 @@
-.head {
-    background-color: blue;
-    color: red;
+html {
+    background-color: azure;
 }
+
+.heading{
+    text-align: center;
+    background-color: gray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style:groove;
+}
+
+.recipe-list {
+    font-size: 30px;
+}
+
