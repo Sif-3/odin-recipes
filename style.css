@@ -11,5 +11,17 @@ html {
 
 .recipe-list {
     font-size: 30px;
+   
+}
+
+.beef {
+ height: 300px;
+ margin: 20px;
+    
+}
+
+.kebab {
+    height: 250px;
+    margin: 20px;
 }
 
